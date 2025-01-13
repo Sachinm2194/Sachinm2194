@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sachinm2194
-- 👀 I’m Fullstack develpoper 
+- 👀 I’m Fullstack developer 
 - 🌱 Graduated [MCA]
 
 
